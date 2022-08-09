@@ -1,0 +1,6 @@
+C:\Users\Акси\Desktop\ConsoleApp1\ConsoleApp1\obj\Release\ConsoleApp1.csprojResolveAssemblyReference.cache
+C:\Users\Акси\Desktop\ConsoleApp1\ConsoleApp1\bin\Release\KeyReft.exe.config
+C:\Users\Акси\Desktop\ConsoleApp1\ConsoleApp1\bin\Release\KeyReft.exe
+C:\Users\Акси\Desktop\ConsoleApp1\ConsoleApp1\bin\Release\KeyReft.pdb
+C:\Users\Акси\Desktop\ConsoleApp1\ConsoleApp1\obj\Release\KeyReft.exe
+C:\Users\Акси\Desktop\ConsoleApp1\ConsoleApp1\obj\Release\KeyReft.pdb
